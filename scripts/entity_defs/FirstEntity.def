@@ -1,0 +1,15 @@
+<root>
+	<CellMethods>
+		<say>
+			<Exposed/>
+			<Arg>UNICODE</Arg>
+		</say>
+	</CellMethods>
+	<ClientMethods>
+		<onEnter>
+		</onEnter>
+		<onSay>
+			<Arg>UNICODE</Arg>
+		</onSay>
+	</ClientMethods>
+</root>
